@@ -1,4 +1,3 @@
 .vscode
 .prettierrc
-*.patch
 package-lock.json
